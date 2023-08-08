@@ -1,6 +1,6 @@
 # Teapot  
 
-Teapot is micro web framework for [Pharo Smalltalk](https://pharo.org) on top of
+Teapot is a micro web framework for [Pharo Smalltalk](https://pharo.org) on top of
 the [Zinc HTTP components](https://github.com/svenvc/zinc), that focuses on
 simplicity and ease of use. It's around 600 lines of code, not counting the tests.
 
